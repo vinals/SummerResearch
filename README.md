@@ -11,4 +11,5 @@
 | Zhen Liu | Theoretical High Energy Physics | 1 |
 | Ognjen Ilic | Mechanical Engineering - Experimental Condensed Matter | 1-2 |
 | Yan Liu | Experimental High Energy Physics | 1 |
+| Roger Rusack | Experimental High ENergy Physics | 1 |
 
