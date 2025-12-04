@@ -10,3 +10,8 @@
 | Alex Kamenev | Theoretical Condensed Matter Physics | 1 |
 | Ali Sulaiman | Theoretical Space Physics | 1 |
 | Zhen Liu | Theoretical Elementary Particle Physics | 1-2 |
+| Michael Zudov | Esperimental Condensed Matter Physics | 1 |
+| Tony Gherghetta | Theoretical Elementary Particle Physics | 1 |
+| Vincent Noireaxu | Experimental Biophysics | 1-2 |
+
+
