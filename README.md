@@ -12,6 +12,6 @@
 | Zhen Liu | Theoretical Elementary Particle Physics | 1-2 |
 | Michael Zudov | Esperimental Condensed Matter Physics | 1 |
 | Tony Gherghetta | Theoretical Elementary Particle Physics | 1 |
-| Vincent Noireaxu | Experimental Biophysics | 1-2 |
+| Vincent Noireaux | Experimental Biophysics | 1-2 |
 
 
