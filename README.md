@@ -7,6 +7,6 @@
 | Jorge Vinals | Theoretical Condensed Matter Physics | 1 |
 | Ke Wang | Experimental Condensed Matter Physics | 1 |
 | Shaul Hanany | Experimental Cosmology | 1 |
-| Alex Kamenev | Condensed Matter Theory | 1 |
+| Alex Kamenev | Theoretical Condensed Matter Theory | 1 |
 | Ali Sulaiman | Theoretical Space Physics | 1 |
 | Zhen Liu | Theoretical Elementary Particle Physics | 1-2 |
