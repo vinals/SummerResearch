@@ -1,4 +1,4 @@
-# Summer 2025 Research opportunities
+# Summer 2026 Research opportunities
 
 | Adviser | Physics Subfield | Number of possible openings |
 | ----------------------- | --------------------- | ---- |
