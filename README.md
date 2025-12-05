@@ -13,5 +13,6 @@
 | Michael Zudov | Esperimental Condensed Matter Physics | 1 |
 | Tony Gherghetta | Theoretical Elementary Particle Physics | 1 |
 | Vincent Noireaux | Experimental Biophysics | 1-2 |
+| Clem Pryke | Experimental Cosmology | 1 |
 
 
