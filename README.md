@@ -14,5 +14,6 @@
 | Tony Gherghetta | Theoretical Elementary Particle Physics | 1 |
 | Vincent Noireaux | Experimental Biophysics | 1-2 |
 | Clem Pryke | Experimental Cosmology | 1 |
+| Bob Lysak | Theoretical Space Physics | 1 |
 
 
