@@ -2,7 +2,8 @@
 
 | Adviser | Physics Subfield | Number of possible openings |
 | ----------------------- | --------------------- | ---- |
-| Martin Greven | Experimental Condensed Matter Physics | 1-2 |
+| Michael Coughlin | Esperimental Astrophysics | 1 |
+| Pepet | Experimental Condensed Matter Physics | 1-2 |
 | Vuk Mandic | Experimental Cosmology | 1-2 |
 | Jorge Vinals | Theoretical Condensed Matter Physics | 1 |
 | Ke Wang | Experimental Condensed Matter Physics | 1 |
