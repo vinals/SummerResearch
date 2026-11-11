@@ -17,6 +17,7 @@
 | Martin Greven | Experimental Condensed Matter Physics | 3 |
 | Vuk Mandic | Experimental Astrophysics | 1 |
 | Hart Goldman | Theoretical Condensed Matter Physics | 1 |
+| Bob Lysak | Theoretical Space Physics | 1 |
 
 
 
