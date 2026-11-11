@@ -16,5 +16,7 @@
 | Xianghan Xu | Experimental Condensed Matter Physics | 1 |
 | Martin Greven | Experimental Condensed Matter Physics | 3 |
 | Vuk Mandic | Experimental Astrophysics | 1 |
+| Hart Goldman | Theoretical Condensed Matter Physics | 1 |
+
 
 
